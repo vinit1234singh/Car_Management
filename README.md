@@ -1,9 +1,9 @@
 # Car_Management
-used Object Oriented Programming 
-Here I Use MySql Databases (JDBC) to connect 
-Main Class is car
-class Car contain some Method
-One seperate class for Databases Connection 
+I am used Object Oriented Programming in java, 
+Here I Use MySql Databases (JDBC) to connect.
+Main Class is car.
+class Car contain some Method.
+One seperate class for Databases Connection.
 Features of this project
 1. insert Car detail in database
 2. You can update the detail
